@@ -1,0 +1,1 @@
+This module is used for training WALS model and generate model files.
