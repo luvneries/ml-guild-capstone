@@ -2,6 +2,6 @@ pandas
 numpy
 google-cloud-storage==1.6.0
 google-api-python-client
-tensorflow==1.13.1
+tensorflow==2.5.1
 scipy
 sh
